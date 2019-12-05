@@ -1,2 +1,2 @@
 # WebApplicaion
-Online Registration for College Events(Student Registration)
+Online Registration for College Events(Basic Students Registration)
